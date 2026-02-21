@@ -95,3 +95,7 @@ section{
     font-size: 10em;
     font-weight: 500;
 }
+.info p{
+    margin-top: 25px;
+    font-size: 1.5em;
+}
