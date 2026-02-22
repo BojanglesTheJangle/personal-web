@@ -28,6 +28,7 @@ nav{
     justify-content: space-between;
     background-color: rgba(43, 43, 43, 0.6);
     backdrop-filter: blur(10px);
+    z-index: 10000;
 }
 .direct{
     position: absolute;
