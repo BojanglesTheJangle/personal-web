@@ -107,8 +107,12 @@ section{
     align-items: center
 }
 .info h4{
+    margin-top: -25px;
     text-align: center;
     align-items: center
+}
+.info a{
+    color: whitesmoke;
 }
 footer {
     width: 100%;
